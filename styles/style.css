@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  font-family: 'Girassol', cursive;
+  font-family: 'Open Sans', cursive;
   color: rgb(255,255,255);
 }
 
@@ -17,13 +17,13 @@ p, li {
 
 
 html {
-  background-color: rgb(237, 197, 237);
+  background-color: rgb(245, 245, 220);
 }
 
 body {
   width: 800px;
   margin: 0 auto;
-  background-color: rgb(100, 28, 75);
+  background-color: rgb(255, 235, 205);
   padding: 0 20px 20px 20px;
 }
 
@@ -42,17 +42,6 @@ img {
   margin-right: auto;
 }
 
-h2 {
-  font-size: 45px;
-}
-
-#table-1 {
-  font-size: 25px;
-}
-
-h3 {
-  font-size: 35px;
-}
 
 #cat {
   position: absolute;
@@ -62,7 +51,7 @@ h3 {
 }
 
 #referencias {
-  background-color: rgb(237, 197, 237);
+  background-color: rgb(240, 248, 255);
   text-align: center;
   color: rgb(100, 28, 75);
 }
@@ -73,8 +62,8 @@ h3 {
   color: rgb(100, 28, 75);
 }
 
-#pedro-te-quiero {
-  background-color: rgb(237, 197, 237);
+#cumple-genial {
+  background-color: rgb(250, 235, 215);
   color: rgb(100, 28, 75);
   border: 1px;
   font-family: sans-serif;
