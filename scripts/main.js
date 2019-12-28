@@ -30,7 +30,7 @@ function setUserName() {
  if(!myName || myName === null) {
  } else {
    localStorage.setItem('name', myName);
-   myHeading.innerHTML = '¡Feliz cumpleaños' + myName + '!';
+   myHeading.innerHTML = '¡Feliz cumpleaños ' + myName + '!';
  }
 }
 
