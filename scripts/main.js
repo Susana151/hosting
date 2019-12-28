@@ -48,6 +48,8 @@ myButton.onclick = function() {
 
 
 
+images/food-1932466_960_720.png
+
 
 // El gato desplazándose <3
 
