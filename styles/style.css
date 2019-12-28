@@ -30,7 +30,7 @@ body {
 h1 {
   margin: 0;
   padding: 20px 0;
-  text-shadow: 3px 3px 1px black;
+  text-shadow: 3px 3px 1px ;
   color: rgb(237, 197, 237);
 }
 
@@ -56,7 +56,7 @@ img {
   color: rgb(100, 28, 75);
 }
 
-#referencias-2 {
+#referenciass {
   background-color: rgb(237, 197, 237);
   text-align: center;  
   color: rgb(100, 28, 75);
